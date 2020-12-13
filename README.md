@@ -5,6 +5,7 @@
     > npm install
     > make
     # Go to chrome://extensions and select "Load Unpacked Extension" 
+    # Go to extension options and paste the following into the cVimrc line: https://raw.githubusercontent.com/thetomcraig/dotfiles/master/cvim.sh
     ```
 # [Like cVim? Consider donating! https://www.paypal.me/1995eaton](https://www.paypal.me/1995eaton)
 

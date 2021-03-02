@@ -2,6 +2,7 @@
   - To install this manually:
     ```
     > git clone https://github.com/thetomcraig/chromium-vim.git --single-branch --branch issue-716-fix-broken-hints
+    > cd chromium-vim
     > npm install
     > make
     # Go to chrome://extensions and select "Load Unpacked Extension" 

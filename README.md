@@ -1,3 +1,13 @@
+- EDIT: Update thetomcraig:
+  - To install this manually:
+    ```
+    > git clone https://github.com/thetomcraig/chromium-vim.git --single-branch --branch issue-716-fix-broken-hints
+    > cd chromium-vim
+    > npm install
+    > make
+    # Go to chrome://extensions and select "Load Unpacked Extension" 
+    # Go to extension options and paste the following into the cVimrc line: https://raw.githubusercontent.com/thetomcraig/dotfiles/master/cvim.sh
+    ```
 # [Like cVim? Consider donating! https://www.paypal.me/1995eaton](https://www.paypal.me/1995eaton)
 
 # What is cVim?
